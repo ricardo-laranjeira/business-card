@@ -1,0 +1,16 @@
+br/com/dio/businesscard/BuildConfig.java
+ br.com.dio.businesscard.BuildConfig
+br/com/dio/businesscard/databinding/ItemBusinessCardBinding.java
+ br.com.dio.businesscard.databinding.ItemBusinessCardBinding
+br/com/dio/businesscard/databinding/ActivityAddBusinessCardBinding.java
+ br.com.dio.businesscard.databinding.ActivityAddBusinessCardBinding
+br/com/dio/businesscard/data/BusinessCardDao_Impl.java
+ br.com.dio.businesscard.data.BusinessCardDao_Impl
+ br.com.dio.businesscard.data.BusinessCardDao_Impl$1
+ br.com.dio.businesscard.data.BusinessCardDao_Impl$2
+ br.com.dio.businesscard.data.BusinessCardDao_Impl$3
+br/com/dio/businesscard/data/AppDatabase_Impl.java
+ br.com.dio.businesscard.data.AppDatabase_Impl
+ br.com.dio.businesscard.data.AppDatabase_Impl$1
+br/com/dio/businesscard/databinding/ActivityMainBinding.java
+ br.com.dio.businesscard.databinding.ActivityMainBinding
